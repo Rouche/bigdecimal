@@ -20,8 +20,8 @@ OK We are in 2012 now
 I no longer work with Flex.
 Adobe never did any work to support such an important functionality in finance domain.
 
-Removed a lot of the cursing from my original project :)
+Removed useless comments from old project.
 
-OK We are in 2015!
+OK in 2015 now.
 
 Might need this in TypeScript restored for future use.
